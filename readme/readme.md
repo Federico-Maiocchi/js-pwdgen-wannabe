@@ -1,66 +1,28 @@
-# Profilo utente
+# Password utente con numero casuale
 
-- ## Chiedere nome utente
-    - scrivere la variabile del nome
-    - associare una variabile al prompt
-    - controllare il funziona:
-    - **SE** funziona
-        - aprire google
-        - comparirà una finistra con su scritta il nome che abbiamo dato al prompt
-        - compilare il prompt
-        - premere sul tasto ok 
-     
-    - **ALTRIMENTI**
-        - inserire dopo il prompt il tag console
-        -  dentro il tag console specificare la variabile 
-        - andare su google
-        - aprire l' inspector di google
-        - andare su console
-        - vedere gli errori che ci mostra la console
-        - modificare/ correggere dove ci è stato indicato dall' inspector
-        - ripetere la procedura **FINCHE'** funziona
-    - procedere con la sezione del cognome 
+- **Chiedere nome utente**
+    - dichiarare una varaibile al nome(firstName)
+    - assegnare alla variabile il valore restituito da un prompt (con una domanda)
+    - controllo funzionamento della variabile e del prompt 
 
-- ## Chiedere il cognome utente
-    - scrivere la variabile del nome
-    - associare una variabile al prompt
-    - controllare il funziona:
-    - **SE** funziona
-        - aprire google
-        - comparirà una finistra con su scritta il nome che abbiamo dato al prompt
-        - compilare il prompt
-        - premere sul tasto ok 
-     
-    - **ALTRIMENTI**
-        - inserire dopo il prompt il tag console
-        -  dentro il tag console specificare la variabile 
-        - andare su google
-        - aprire l' inspector di google
-        - andare su console
-        - vedere gli errori che ci mostra la console
-        - modificare/ correggere dove ci è stato indicato dall' inspector
-        - ripetere la procedura **FINCHE'** funziona
-    - procedere con la sezione del colore preferito
+- **Sostituzione parola in h2**
+    - dichiarare una variabile user dove assegnamo una stringa
+    - stampare l' user dentro lo spam in h2
 
-- ## Chidere il colore preferito utente
-    - scrivere la variabile del colore
-    - associare una variabile al prompt
-    - controllare il funziona:
-    - **SE** funziona
-        - aprire google
-        - comparirà una finistra con su scritta il nome che abbiamo dato al prompt
-        - compilare il prompt
-        - premere sul tasto ok 
-     
-    - **ALTRIMENTI**
-        - inserire dopo il prompt il tag console
-        -  dentro il tag console specificare la variabile 
-        - andare su google
-        - aprire l' inspector di google
-        - andare su console
-        - vedere gli errori che ci mostra la console
-        - modificare/ correggere dove ci è stato indicato dall' inspector
-        - ripetere la procedura **FINCHE'** funziona
-    - procedere con la sezione del cognome
+- **Chiedere il cognome utente**
+    - dichiarare  una varaibile al nome(lastName)
+    - assegnare alla variabile il valore restituito da un prompt (con una domanda)
+    - controllo funzionamento della variabile e del prompt
+- **Chidere il colore preferito utente**
+    - dichiarare una varaibile al nome(favoriteColor)
+    - assegnare alla variabile il valore restituito da un prompt (con una domanda)
+    - controllo funzionamento della variabile e del prompt
+    
+- **Generare un numero a caso**
+    - dichiarare  una varaibile al nome(randomNumber) ASSEGNARE il calcolo per generare numeri casuali da 1 a 1000
 
-- ## Generare un numero a caso
+- **Sostituzione h1 con le variabili**
+    - dichiarare una variabile password dove concateniamo le 4 stringhe 
+    - stampare la password dentro un h1 
+    
+    

@@ -1,9 +1,13 @@
 
 
-
 let firstName;
 firstName = prompt ('Ciao Utente, come ti chiami?');
 console.log(firstName);
+
+let user = firstName;
+
+const nameDomElement = document.getElementById('user');
+nameDomElement.innerHTML = user;
 
 let lastName;
 lastName = prompt ('Inserisci il tuo cognome?');
