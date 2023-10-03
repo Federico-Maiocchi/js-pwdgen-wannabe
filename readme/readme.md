@@ -43,7 +43,7 @@
     - procedere con la sezione del colore preferito
 
 - ## Chidere il colore preferito utente
-    - scrivere la variabile del nome
+    - scrivere la variabile del colore
     - associare una variabile al prompt
     - controllare il funziona:
     - **SE** funziona
@@ -64,5 +64,3 @@
     - procedere con la sezione del cognome
 
 - ## Generare un numero a caso
-
-- 

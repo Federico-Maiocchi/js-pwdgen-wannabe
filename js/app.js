@@ -1,3 +1,6 @@
+
+
+
 let firstName;
 firstName = prompt ('Ciao Utente, come ti chiami?');
 console.log(firstName);
@@ -10,12 +13,9 @@ let favoriteColor;
 favoriteColor = prompt ('Qual è il tuo colore preferito?');
 console.log(favoriteColor);
 
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-  }
-  
-  console.log(getRandomInt(100));
-  
+let randomNumber = Math.floor(Math.random() * (1000 - 1) + 1);
 
+let password = firstName + lastName + favoriteColor + randomNumber;
 
-
+const messageDomElement = document.getElementById('password')
+messageDomElement.innerHTML = password
