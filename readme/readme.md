@@ -40,7 +40,7 @@
         - vedere gli errori che ci mostra la console
         - modificare/ correggere dove ci è stato indicato dall' inspector
         - ripetere la procedura **FINCHE'** funziona
-    - procedere con la sezione del cognome
+    - procedere con la sezione del colore preferito
 
 - ## Chidere il colore preferito utente
     - scrivere la variabile del nome
